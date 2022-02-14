@@ -13,9 +13,9 @@ function App() {
     <div className='App'>
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
-        <p>Travel Journal</p>
-        <section className='cards--list'>{cards}</section>
+        <p className='App-title'>tournal</p>
       </header>
+      <section className='cards--list'>{cards}</section>
     </div>
   );
 }
