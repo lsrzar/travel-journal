@@ -1,17 +1,27 @@
+.App-header {
+  background-color: #e1ab5b;
+  min-height: 55px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: 14.46px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
 .App-logo {
-  filter: invert(76%) sepia(19%) saturate(3519%) hue-rotate(341deg)
-    brightness(101%) contrast(93%);
+  filter: invert(94%) sepia(76%) saturate(0%) hue-rotate(173deg)
+    brightness(105%) contrast(105%);
   height: 24px;
   pointer-events: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: 14.46px;
-  color: white;
+.App-title {
+  padding-bottom: 5px;
+}
+
+.cards--list {
+  background-color: #ffffff;
+  min-height: 100%;
 }
