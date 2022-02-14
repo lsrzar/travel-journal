@@ -2,6 +2,10 @@
 
 > A website for visualizing travel locations
 
+<p align="center">
+<img alt="travel journal" src="https://user-images.githubusercontent.com/87744767/153959335-373db1ea-839c-438f-9963-95257d4c8658.png">
+</p>
+
 Built with:
 
 - [Create React App](https://github.com/facebook/create-react-app).
