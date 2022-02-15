@@ -3,7 +3,7 @@
 > A website for visualizing travel locations
 
 <p align="center">
-<img alt="travel journal" src="https://user-images.githubusercontent.com/87744767/153959335-373db1ea-839c-438f-9963-95257d4c8658.png">
+<img alt="travel journal" src="https://user-images.githubusercontent.com/87744767/153987705-7f53b17f-d8e4-4ba8-b979-9738fa2cfc1f.png">
 </p>
 
 Built with:
