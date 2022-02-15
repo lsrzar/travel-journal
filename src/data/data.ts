@@ -44,6 +44,18 @@ const data: {
     imageUrl:
       'https://images.unsplash.com/photo-1601439678777-b2b3c56fa627?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
   },
+  {
+    id: 4,
+    title: 'Cuernos del Paine',
+    location: 'Chile',
+    googleMapsUrl: 'https://goo.gl/maps/GB9iJHYzFfeQ2Uw67',
+    startDate: '05 Feb, 2022',
+    endDate: '20 Feb, 2022',
+    description:
+      "The Cuernos del Paine or 'Paine horns' is a collective name given to a set of spiky granite peaks in Torres del Paine National Park located in Chile's Patagonia region, all of which stand at over 2000 metres high.",
+    imageUrl:
+      'https://images.unsplash.com/photo-1544198365-f5d60b6d8190?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
+  },
 ];
 
 export default data;
