@@ -1,4 +1,8 @@
 const styles = {
+  typography: {
+    fontFamily: 'Inter',
+    color: '#2B283A',
+  },
   card: {
     maxWidth: '470px',
     maxHeight: '168px',
@@ -16,6 +20,7 @@ const styles = {
   locationBox: {
     display: 'flex',
     flexDirection: 'row',
+    fontFamily: 'Inter',
   },
   locationIcon: {
     width: '15px',
@@ -34,7 +39,6 @@ const styles = {
     alignSelf: 'center',
   },
   locationLink: {
-    fontFamily: 'Inter',
     color: '#918E9B',
     fontSize: '10.24px',
     alignSelf: 'center',
@@ -52,8 +56,9 @@ const styles = {
   date: {
     fontFamily: 'Inter',
     fontSize: '10.24px',
-    fontWeight: 'bold',
+    fontWeight: '900',
     marginTop: '16px',
+    marginBottom: '2px',
   },
   description: {
     fontFamily: 'Inter',
