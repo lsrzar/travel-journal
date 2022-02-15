@@ -30,7 +30,7 @@ const ActionCard: React.FC<CardProps> = ({ info }) => {
         alt={info.title.toLowerCase()}
         sx={styles.img}
       />
-      <CardContent>
+      <CardContent sx={styles.typography}>
         <Box sx={styles.locationBox}>
           <LocationOnIcon sx={styles.locationIcon} />
           <Typography sx={styles.locationTitle}>{info.location}</Typography>
